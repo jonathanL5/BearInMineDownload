@@ -6,6 +6,8 @@ BearInMine is a story based word game that combines elements of RPG platformers 
 
 Press the green code button at the top center of this respository. Download as ZIP.
 
+The files are meant to be read in GameMaker Version 2023.1.1.62. Program may not run on older versions.
+
 # Usage
 
 1. Open the ZIP file and open the file BearInMineDownload (GameMaker logo)
