@@ -1,4 +1,4 @@
-# BearInMine - WordGame#
+# BearInMine - WordGame
 
 BearInMine is a story based word game that combines elements of RPG platformers and an altered version of scrabble
 
